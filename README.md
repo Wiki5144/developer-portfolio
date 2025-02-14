@@ -1,10 +1,10 @@
 <p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
+    <img height="100" src="https://github.com/Wiki5144/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
 </p>
 
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/Wiki5144/github-portfolio)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://waqasahmad.netlify.app/).
 
 ---
 
@@ -145,26 +145,26 @@ GMAIL_PASSKEY =
 EMAIL_ADDRESS =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/Wiki5144/developer-portfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
+  name: "WAQAS AHMAD",
+  profile: "/profile.jpeg",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  description: "My name is WAQAS AHMAD....",
+  email: "waqas514472@gmail.com",
+  phone: "+92-3244851712",
+  address: "Lahore, Pakistan",
+  github: "https://github.com/Wiki5144",
+  facebook: "https://www.facebook.com/profile.php?id=100008401662831",
+  linkedIn: "https://www.linkedin.com/in/waqas-ahmad-7a2069214/",
+  twitter: "https://twitter.com/Wiki5144",
+  stackOverflow: "https://stackoverflow.com/users/16840768/Wiki5144",
+  leetcode: "https://leetcode.com/Wiki5144/",
+  devUsername: "Wiki5144",
   resume: "...",
 };
 ```

@@ -1,20 +1,26 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor Degree (BSCS)",
+    duration: "2021 - 2024",
+    institution: "Virtual  University of Pakistan",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
+    title: "ICS (Computer Science)",
     duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    institution: "Private Academy",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Web & Graphic Diploma ",
+    duration: "2016 - 2017",
+    institution: "Vocational Training Institute",
+  },
+  {
+    id: 4,
+    title: "Matriculation",
+    duration: "2008 - 2015",
+    institution: "Govt High School Chauburji Gardens",
   }
 ]
